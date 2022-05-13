@@ -1,7 +1,7 @@
 package session3;
 
 //Clase Java para demostrar estructura de repeticion While y Do While
-public class CondicionalWhile {
+public class ConditionalWhile {
     public static void main(String args[]) {
 
         int i = 1;
@@ -19,7 +19,7 @@ public class CondicionalWhile {
             i++;
             if(i==5){
                 System.out.println("Adios");
-                break;
+                //break;
             }
         }
         while (i <= 10);

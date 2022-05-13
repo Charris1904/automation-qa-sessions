@@ -1,7 +1,7 @@
 package session3;
 
 //Clase Java para demostrar estructura de repeticion For y ForEach
-public class CondicionalFor {
+public class ConditionalFor {
     public static void main(String args[]) {
 
         /******************* FOR *******************/
@@ -10,24 +10,24 @@ public class CondicionalFor {
             System.out.println("Valor de x: " + x);
         }*/
 
-        for (int i = 1; i <= 5; i++) {
+        /*for (int i = 1; i <= 5; i++) {
             System.out.println("Hello World");
-        }
+        }*/
 
         /******************* FOR EACH *******************/
         String array[] = {"Kennia", "Alejandro", "Ana", "Angela"};
 
-        /*for (int i = 0; i < array.length; i++)
+        for (int i = 0; i < array.length; i++)
         {
             System.out.println(array[i]);
-        }*/
+        }
 
         //bucle for para la misma función
         for (String item : array) {
             System.out.println(item);
             if (item == "Ana") {
                 System.out.println("Hola " + item);
-                break;
+                //break;
             }
         }
     }

@@ -1,0 +1,29 @@
+1. ¿Cuál de las siguientes opciones se puede utilizar como un folder para organizar archivos Java?
+R/ packages
+
+2. ¿Cuál de las siguientes opciones representa un archivo Java?
+R/ class
+
+3. ¿Que puede definirse como un espacio en memoria para almacenar datos?
+R/ variable
+
+4. ¿Cuál es el nombre del primer método invocado por Java cuando se ejecuta una clase?
+R/ main
+
+5. ¿Cúal de las siguientes opciones es un nombre variable inválido?
+R/ 1nombre
+
+6. ¿Cómo se define un bloque de sentencia en Java?
+R/ Con llaves {}
+
+7. ¿Cuál de las siguientes opciones representa un comentario en Java?
+R/ //
+
+8. ¿Para qué sirve el punto y coma ( ; ) en Java?
+R/ Para finalizar una sentencia
+
+9. ¿Cuál tipo de datos se utiliza para variables texto?
+R/ String
+
+10. ¿Cuál tipo de dato se utiliza para variables decimales?
+R/ double

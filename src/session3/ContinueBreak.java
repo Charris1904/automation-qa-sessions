@@ -20,6 +20,7 @@ public class ContinueBreak {
         for (int i = 0; i < 10; i++) {
             // Si el número es par omitir y continuar
             if (i % 2 == 0) {
+                System.out.print(i + " ");
                 continue;
             }
             // Si el número es impar, imprímalo
