@@ -20,6 +20,6 @@ public class Rectangle extends Shape{
 
     @Override
     public String toString() {
-        return "Rectangle color is " + super.getColor() + "and area is : " + area();
+        return "Rectangle color is " + super.getColor() + " and area is : " + area();
     }
 }
